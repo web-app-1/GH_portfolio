@@ -21,7 +21,9 @@
 header_pages:
   - experience.md
   - skills.md
+  - projects.md
   - index.md
+
 
 title: Luis Del Rio
 description: Personal Portfolio Showcase

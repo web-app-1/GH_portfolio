@@ -26,7 +26,7 @@ This time has allowed me to work in alignment with my values of focus, autonomy,
 <!---PROJECT --->
 <details>
 
-<summary>📌 Quorum - Virtual Assemblies</summary>
+<summary>📌 Virtual Assemblies Web App</summary>
 <p> A complete platform for managing virtual assemblies and community voting processes.</p>  
 
 <ul>
@@ -127,7 +127,7 @@ This time has allowed me to work in alignment with my values of focus, autonomy,
 <!---PROJECT --->
 <details>
 
-<summary>📌 My Digital Community App</summary>
+<summary>📌 My Digital Neighborhood App</summary>
 <p> A tool created to help citizens report events such as: Hazards, Concerns, Evaluations and Problems within their neighborhood.</p>  
 
 <ul>
@@ -221,7 +221,7 @@ This time has allowed me to work in alignment with my values of focus, autonomy,
 
 <!---HISTORY BLOCK --->
 
-<h3 style="color:#0077b6;"><strong>🔵 PowerApps Developer @ Dell Technologies | Remote</strong></h3>
+<h3 style="color:#0077b6;"><strong>🔵 PowerApps Developer @ Dell | Remote</strong></h3>
 
 
 **Period**: 2021 – 2024  
@@ -328,7 +328,7 @@ This time has allowed me to work in alignment with my values of focus, autonomy,
 <!---PROJECT --->
 <details>
 
-<summary>📌 Nomination App & Course Management</summary>
+<summary>📌Course Management App</summary>
 <p>Developed a platform for internal course management, enabling managers and directors across business units to monitor and oversee employee progress and assigned instructional materials.</p>  
 
 <ul>
@@ -420,7 +420,7 @@ This time has allowed me to work in alignment with my values of focus, autonomy,
 <br>
 
 <!---HISTORY BLOCK --->
-<h3 style="color:#0077b6;"><strong>🔵 Lead Innovator @ Dell Technologies | Remote</strong></h3>
+<h3 style="color:#0077b6;"><strong>🔵 Lead Innovator @ Dell | Remote</strong></h3>
 
 
 **Period**: 2020 – 2021  
@@ -565,7 +565,7 @@ This time has allowed me to work in alignment with my values of focus, autonomy,
 <!---PROJECT --->
 <details>
 
-<summary>📌 Content Management System (Japan)</summary>
+<summary>📌 Content Management System</summary>
 <p>I had the opportunity to collaborate with the Japan sales support team, who requested an internal platform for documenting after-sales processes.</p>  
 
 <ul>
@@ -614,7 +614,7 @@ This time has allowed me to work in alignment with my values of focus, autonomy,
 <br>
 
 <!---HISTORY BLOCK --->
-<h3 style="color:#0077b6;"><strong>🔵 Proposal Manager @ Dell Technologies | Hybrid</strong></h3>
+<h3 style="color:#0077b6;"><strong>🔵 Proposal Manager @ Dell | Hybrid</strong></h3>
 
 
 **Period**: 2018 – 2019  
@@ -654,7 +654,7 @@ This time has allowed me to work in alignment with my values of focus, autonomy,
 <br>
 
 <!---HISTORY BLOCK --->
-<h3 style="color:#0077b6;"><strong> 🔵 HR / HRIS @ Dell Technologies | Remote</strong></h3>
+<h3 style="color:#0077b6;"><strong> 🔵 HR / HRIS @ Dell | Remote</strong></h3>
 
 
 **Period**: 2014 – 2017  
@@ -693,7 +693,7 @@ This time has allowed me to work in alignment with my values of focus, autonomy,
 <summary><strong>Results</strong></summary>
 
 <ul>
-    <li>Increased process productivity by 100 percent.</li>
+    <li>Increased process productivity by 100%.</li>
     <li>Reduced time spent from 4 hours to 5 minutes.</li>
     <li>Elimination of repetitive tasks.</li>
     <li>Elimination of the previous unsupported and unscalable system.</li>
@@ -713,7 +713,7 @@ This time has allowed me to work in alignment with my values of focus, autonomy,
 <!---END HISTORY BLOCK --->
 
 <!---HISTORY BLOCK --->
-<h3 style="color:#0077b6;"><strong>🔵 Sales Operations @ Dell Technologies | Remote</strong></h3>
+<h3 style="color:#0077b6;"><strong>🔵 Sales Operations @ Dell | Remote</strong></h3>
 
 
 **Period**: 2010 – 2014  

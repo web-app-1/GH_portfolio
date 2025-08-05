@@ -5,7 +5,7 @@ title: "Home"
 
 <div style="text-align: center; margin-top: 3rem;">
   <h1><strong>Digital Artisan | Web Development & Programming</strong></h1>
-  <p>A curiuos, imaginative and divergent mind.</p>
+  <p>A curious, imaginative and divergent mind.</p>
   
   <img src="/assets/img/profile.png" alt="Luis del Río" style="border-radius: 50%; width: 150px; margin-top: 1rem; margin-bottom: 2rem;" />
   
