@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "Professional Journey"
-permalink: /experiencia/
+layout: custom
+title: "Job History"
+permalink: /experience/
 ---
 
 ## Job History & Achievements
@@ -13,17 +13,226 @@ You can download my résumé here:
 
 <!---HISTORY BLOCK --->
 
-<h3 style="color:#0077b6;"><strong>PowerApps Developer @ Dell Technologies | Remote</strong></h3>
+<h3 style="color:#0077b6;"><strong>  🔵 Career Pause / Learning | Remote</strong></h3>
+
+
+**Period**: 2024 – To Date  
+**Summary**: Currently dedicating myself intensively to developing personal projects, strengthening my technical skills, and creating functional digital solutions focused on automation, efficiency, and structured documentation.
+
+This time has allowed me to work in alignment with my values of focus, autonomy, and purpose, while delivering solutions with real impact..
+
+**Key Achievements:** (click for more details)
+
+<!---PROJECT --->
+<details>
+
+<summary>📌 Quorum - Virtual Assemblies</summary>
+<p> A complete platform for managing virtual assemblies and community voting processes.</p>  
+
+<ul>
+    <details>
+<summary><strong>Features</strong></summary>
+
+<ul>
+    <li>Secure platform for home owners association assemblies</li>
+    <li>Real-time voting and results</li>
+    <li>Real-time assembly quorum calculations</li>
+    <li>Real-time owners assistance tracker</li>
+    <li>Redis secure database and IP protection againts brute force attacks and DDOS</li>
+    <li>Real-time IP montoring</li>
+    <li>Real-time reporting and on-demand data verification</li>
+    <li>No device? No problem, we provide tablets for registration</li>
+
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Results</strong></summary>
+
+<ul>
+    <li>Home owners can attend and register virtually or physically to the assembly </li>
+    <li>Transparent, fast and effective voting process</li>
+    <li>Decrease assembly time from 3 hours to 1</li>
+    <li>Promoted community and neighborhood integration</li>
+
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Technologies</strong></summary>
+
+<ul>
+    <li>Python - Django - PostgreSQL - Redis - HTMX  </li>
+</ul>
+
+
+</details>
+<br>
+
+</ul>
+
+</details>
+<!---END PROJECT --->
+
+<!---PROJECT --->
+<details>
+
+<summary>📌 Ai Email extraction</summary>
+<p> Tool connected to openAI api for data extraction of an email inbox. The process will monitor an email inbox and extract its data to be processed by another User Interface</p>  
+
+<ul>
+    <details>
+<summary><strong>Features</strong></summary>
+
+<ul>
+    <li>Extract structured data from incoming emails</li>
+    <li>Data mining from emails</li>
+    <li>Structured Data</li>
+    <li>Streamlined for process intake</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Results</strong></summary>
+
+<ul>
+    <li>Automated an intake process based on email data</li>
+    <li>Organized and robust data structures</li>
+    <li>Simple, efficient and clean process</li>
+    <li>Reduced Human Intervention</li>
+
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Technologies</strong></summary>
+
+<ul>
+    <li>Python- Django - Bootsrap  </li>
+</ul>
+
+
+</details>
+<br>
+
+</ul>
+
+</details>
+<!---END PROJECT --->
+
+<!---PROJECT --->
+<details>
+
+<summary>📌 My Digital Community App</summary>
+<p> A tool created to help citizens report events such as: Hazards, Concerns, Evaluations and Problems within their neighborhood.</p>  
+
+<ul>
+    <details>
+<summary><strong>Features</strong></summary>
+
+<ul>
+    <li>No login required</li>
+    <li>Fast and reliable database architecture</li>
+    <li>Real-time map geo-localization</li>
+    <li>Upload photos and reports</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Results</strong></summary>
+
+<ul>
+    <li>Enables residents and neighbors for an alternate channel to pin point critical problems</li>
+    <li>Ease of use</li>
+    <li>Simple, to the point interface</li>
+    <li>Heat maps for admins</li>
+    <li>Generates and provides additional data for local authorities</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Technologies</strong></summary>
+
+<ul>
+    <li>Python- Django - Bootsrap - OpenLeaf API - PostgreSQL  </li>
+</ul>
+
+
+</details>
+<br>
+
+</ul>
+
+</details>
+<!---END PROJECT --->
+
+<!---PROJECT --->
+<details>
+
+<summary>📌 Payroll Auntomation App</summary>
+<p> A tool that enables payroll teams aliviate heavy chores during the Payday</p>  
+
+<ul>
+    <details>
+<summary><strong>Features</strong></summary>
+
+<ul>
+    <li>Automatic salary and deductions calculations</li>
+    <li>Manage employee pay details</li>
+    <li>Mass generate paystubs</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Results</strong></summary>
+
+<ul>
+    <li>Remove manual tasks</li>
+    <li>Help payroll analysts concentrate on more important tasks</li>
+    <li>Mitigate human error</li>
+    <li>Consistent and structured data</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Technologies</strong></summary>
+
+<ul>
+    <li>Python- Django - PostgreSQL  </li>
+</ul>
+
+
+</details>
+<br>
+
+</ul>
+
+</details>
+<!---END PROJECT --->
+<br>
+
+<!---HISTORY BLOCK --->
+
+<h3 style="color:#0077b6;"><strong>🔵 PowerApps Developer @ Dell Technologies | Remote</strong></h3>
 
 
 **Period**: 2021 – 2024  
 **Responsibilities**: Build internal tools for Business process automation and data collection.
 
+**Relevant Projects:** (click for more details)
 
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Intake Tool</strong></summary>
+<summary>📌 Intake Tool</summary>
 <p> Tool allowed project leaders and managers to carry out precise management of projects assigned to developers, providing better structure, sustainability, ease of use, and overall process organization.</p>  
 
 <ul>
@@ -56,11 +265,10 @@ You can download my résumé here:
 <details>
 <summary><strong>Technologies</strong></summary>
 
-- Microsoft PowerApps Canvas
-- Microsoft SharePoint  
-- Microsoft PowerAutomate
-- Microsoft PowerBi
-- SQL
+<ul>
+    <li>Microsoft PowerApps Canvas - SharePoint - PowerAutomate - PowerBi - SQL  </li>
+</ul>
+
 
 </details>
 <br>
@@ -70,10 +278,11 @@ You can download my résumé here:
 </details>
 <!---END PROJECT --->
 
+
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Salesforce Automation</strong></summary>
+<summary>📌 Salesforce Automation</summary>
 <p> Led the development of an automation in Salesforce to track cases and streamline customer service. The process: log in, find list, detect new cases, auto-respond, and notify the assigned agent.</p>  
 
 <ul>
@@ -104,9 +313,9 @@ You can download my résumé here:
 <details>
 <summary><strong>Technologies</strong></summary>
 
-- Microsoft PowerApps Canvas  
-- UiPath 
-- Advanced Excel
+<ul>
+    <li>Microsoft PowerApps Canvas - UiPath - PowerAutomate - PowerQuery  </li>
+</ul>
 
 </details>
 <br>
@@ -119,7 +328,7 @@ You can download my résumé here:
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Nomination App</strong></summary>
+<summary>📌 Nomination App & Course Management</summary>
 <p>Developed a platform for internal course management, enabling managers and directors across business units to monitor and oversee employee progress and assigned instructional materials.</p>  
 
 <ul>
@@ -150,11 +359,9 @@ You can download my résumé here:
 <details>
 <summary><strong>Technologies</strong></summary>
 
-- Microsoft PowerApps Canvas 
-- Microsoft PowerAutomate
-- Microsoft SQL Connector
-- Microsoft Outlook 365
-- Microsoft PowerBi
+<ul>
+    <li>Microsoft PowerApps Canvas - SharePoint - PowerAutomate - SQL - PowerBi  </li>
+</ul>
 
 </details>
 <br>
@@ -167,7 +374,7 @@ You can download my résumé here:
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Email Blaster App</strong></summary>
+<summary>📌 Email Blaster App</summary>
 <p>Developed for managing mass email distribution. Initially, this activity lacked an effective process for sending information via email to external clients, resulting in inconsistencies and unnecessary workloads.</p>  
 
 <ul>
@@ -197,10 +404,9 @@ You can download my résumé here:
 <details>
 <summary><strong>Technologies</strong></summary>
 
-- VB.net Forms
-- Microsoft Excel
-- Microsoft PowerAutomate
-
+<ul>
+    <li>VB.net forms - Microsoft Excel - PowerAutomate - SQL </li>
+</ul>
 
 </details>
 </ul>
@@ -214,17 +420,18 @@ You can download my résumé here:
 <br>
 
 <!---HISTORY BLOCK --->
-<h3 style="color:#0077b6;"><strong>Lead Innovator @ Dell Technologies | Remote</strong></h3>
+<h3 style="color:#0077b6;"><strong>🔵 Lead Innovator @ Dell Technologies | Remote</strong></h3>
 
 
 **Period**: 2020 – 2021  
 **Responsibilities**: To create and promote digital solutions for multiple repetitive organizational tasks.
 
+**Relevant Projects:** (click for more details)
 
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Booking Profile App</strong></summary>
+<summary>📌 Booking Profile App</summary>
 <p> A tool created for client profile registration, note tracking, and content management creation.</p>  
 
 <ul>
@@ -254,9 +461,9 @@ You can download my résumé here:
 <details>
 <summary><strong>Technologies</strong></summary>
 
-- Microsoft PowerApps Canvas
-- Microsoft SharePoint  
-- Microsoft PowerAutomate
+<ul>
+    <li>Microsoft PowerApps Canvas - SharePoint - PowerAutomate </li>
+</ul>
 
 </details>
 <br>
@@ -269,7 +476,7 @@ You can download my résumé here:
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Approvals App</strong></summary>
+<summary>📌 Approval Flows App</summary>
 <p>A tool created to manage approval processes. It served as a reference point to distinguish between types of approvers and first- or second-level leaders, as well as to visualize the approval flow. When an approval was requested through the tool, the necessary flow was created for the type of approval, and stakeholders were notified via email alerts and internal messaging.</p>  
 
 <ul>
@@ -298,9 +505,9 @@ You can download my résumé here:
 <details>
 <summary><strong>Technologies</strong></summary>
 
-- Microsoft PowerApps Canvas  
-- Microsoft PowerAutomate.
-- Microsoft Outlook 365.
+<ul>
+    <li>Microsoft PowerApps Canvas - PowerAutomate - Outlook 365  </li>
+</ul>
 
 </details>
   
@@ -313,7 +520,7 @@ You can download my résumé here:
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Virtual ChatBot</strong></summary>
+<summary>📌 Virtual ChatBot</summary>
 <p>Chatbot that enabled the centralization of common company-related questions and answers for the creation of various certificates.</p>  
 
 <ul>
@@ -343,8 +550,9 @@ You can download my résumé here:
 <details>
 <summary><strong>Technologies</strong></summary>
 
-- Microsoft Power Virtual Agents.
-- Microsoft Teams.
+<ul>
+    <li>Microsoft PowerVirtual Agents - Teams  </li>
+</ul>
 
 </details>
 <br>
@@ -357,7 +565,7 @@ You can download my résumé here:
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Content Management System (Japan)</strong></summary>
+<summary>📌 Content Management System (Japan)</summary>
 <p>I had the opportunity to collaborate with the Japan sales support team, who requested an internal platform for documenting after-sales processes.</p>  
 
 <ul>
@@ -388,11 +596,9 @@ You can download my résumé here:
 <details>
 <summary><strong>Technologies</strong></summary>
 
-- Microsoft PowerApps Canvas.
-- Microsoft PowerAutomate.
-- SharePoint 365
-- SQL Connector
-
+<ul>
+    <li>Microsoft PowerApps Canvas - SharePoint - PowerAutomate - PowerBi - SQL  </li>
+</ul>
 
 </details>
 <br>
@@ -408,17 +614,19 @@ You can download my résumé here:
 <br>
 
 <!---HISTORY BLOCK --->
-<h3 style="color:#0077b6;"><strong>Proposal Manager @ Dell Technologies | Hybrid</strong></h3>
+<h3 style="color:#0077b6;"><strong>🔵 Proposal Manager @ Dell Technologies | Hybrid</strong></h3>
 
 
 **Period**: 2018 – 2019  
 **Responsibilities**: Responsible for handling service proposals for the Eastern United States region (including New York and Massachusetts), working closely with the legal team and other functional areas in the creation, review, and compilation of Dell Technologies’ Service Proposal document.
 
+(click for more details)
+
 
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Proposal Manager / Editor</strong></summary>
+<summary>📌 Proposal Manager / Editor</summary>
 <p> Proposal document response management.</p>  
 
 <ul>
@@ -446,19 +654,19 @@ You can download my résumé here:
 <br>
 
 <!---HISTORY BLOCK --->
-<h3 style="color:#0077b6;"><strong>HR / HRIS @ Dell Technologies | Remote</strong></h3>
+<h3 style="color:#0077b6;"><strong> 🔵 HR / HRIS @ Dell Technologies | Remote</strong></h3>
 
 
 **Period**: 2014 – 2017  
 **Responsibilities**: Departmental management, access to internal company systems and interdepartmental collaborations.
 
-
+(click for more details)
 
 
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Senior Analyst</strong></summary>
+<summary>📌 Senior Analyst</summary>
 <p> Responsible for handling internal cases related to departmental management and access to internal company systems.</p>  
 
 <ul>
@@ -505,16 +713,17 @@ You can download my résumé here:
 <!---END HISTORY BLOCK --->
 
 <!---HISTORY BLOCK --->
-<h3 style="color:#0077b6;"><strong>Sales Operations @ Dell Technologies | Remote</strong></h3>
+<h3 style="color:#0077b6;"><strong>🔵 Sales Operations @ Dell Technologies | Remote</strong></h3>
 
 
 **Period**: 2010 – 2014  
 **Responsibilities**: Departmental management, access to internal company systems and interdepartmental collaborations.
 
+(click for more details)
 <!---PROJECT --->
 <details>
 
-<summary><strong>📌 Analyst</strong></summary>
+<summary>📌 Analyst </summary>
 <p> Responsible for configuring servers, desktops, and laptops for the creation of purchase orders for various clients..</p>  
 
 <ul>
